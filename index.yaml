@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - https://nupur71.github.io/
+    - https://nupur71.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-01-14T11:29:53.121618506Z"
